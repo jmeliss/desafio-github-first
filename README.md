@@ -8,6 +8,5 @@
 [10.comandos.GIT.basicos](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
 # Lista de Comandos Git
-pull(comandos do git)
 
 

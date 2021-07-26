@@ -1,4 +1,4 @@
-# Repositório  do Projeto Git\Github da DIO
+# Repositório Git/Github
 # desafio-github-first
 
 

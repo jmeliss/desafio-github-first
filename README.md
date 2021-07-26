@@ -1,5 +1,6 @@
 # Repositório Git/Github
-# desafio-github-first
+## Desafio-Git/Github-DIO
+
 
 
 ## Links úteis 
@@ -7,7 +8,15 @@
 
 [10.comandos.GIT.basicos](https://blog.geekhunter.com.br/comandos-git-mais-utilizados/)
 
-## Lista de comandos dos git
+#Lista de Comandos do Git
+## Comandos do Git
+
+- git pull
+- git push
+- git add ./ git add -a
+- git clone
+- git commit -m
+- 
 
 
 
